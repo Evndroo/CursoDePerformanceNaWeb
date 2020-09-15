@@ -1,4 +1,4 @@
-# Projeto do Curso de Otimização de Performance Web do Alura
+# Projeto do Curso de Otimização de Performance Web da Alura
 
 Neste projeto estou desenvolvendo meus conhecimentos sobre testes e análise de performance no curso da Alura.
 
